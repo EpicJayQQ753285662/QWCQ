@@ -8,3 +8,6 @@ This page is used to show the game content and development progress of the indep
 
 Click the upper right corner to make comments, edit and submit feedback in the feedback collection bar, and click Favorites to favorites in the browser for next time
 
+---
+
+更多信息可以看:https://753285662.notion.site/2245ffdab8d64724872f270769a4667f?pvs=4
