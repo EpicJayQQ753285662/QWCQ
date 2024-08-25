@@ -1,10 +1,10 @@
-此仓库用来作为独立游戏《其惟春秋》的反馈和论坛功能
+此仓库用来作为独立游戏《春秋志》的反馈和论坛功能
 
 点击issue发帖进行反馈,点击discussions在论坛内发帖
 
 ---
 
-This repository is used for feedback and forum functions for the independent game "Qi Wei Chun Qiu"
+This repository is used for feedback and forum functions for the independent game 《The Spring and Autumn Annals》
 
 Click on issue to post feedback, click on discussions to post in the forum
 
